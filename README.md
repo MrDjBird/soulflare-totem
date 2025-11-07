@@ -30,10 +30,10 @@
             <summary>
                 <a href="https://github.com/MrDjBird/soulflare-totem/releases/tag/v0.1">1.21-1.21.1</a>
             </summary>
-            <li style="list-style-type: none">
-            <ul><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.1/Totrm_of_Rebirth_v0.1_resources.zip">Resourcepack</a></ul>
-            <ul><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.1/Totem_of_Rebirth_v0.1_datapack.zip">Datapack</a></ul>
-            </li>
+            <ul style="list-style-type: none">
+            <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.1/Totrm_of_Rebirth_v0.1_resources.zip">Resourcepack</a></li>
+            <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.1/Totem_of_Rebirth_v0.1_datapack.zip">Datapack</a></li>
+            </ul>
         </details>
     </ol>
 </details>
