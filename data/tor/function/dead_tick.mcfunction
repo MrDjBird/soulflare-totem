@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item, nbt={Item:{id:"minecraft:totem_of_undying", components:{"minecraft:rarity":"epic"}}}, distance=..2] at @s run function tor:do_rebirth

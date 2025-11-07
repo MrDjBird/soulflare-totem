@@ -1,0 +1,1 @@
+execute as @a[gamemode=spectator] at @s run function tor:dead_tick
