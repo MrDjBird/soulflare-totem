@@ -28,12 +28,12 @@
   "result": {
     "id": "minecraft:totem_of_undying",
     "components": {
-      "minecraft:item_name": "Totem-of-Rebirth",
+      "minecraft:item_name": "{\"text\":\"Totem of Rebirth\",\"italic\":false}",
       "minecraft:fire_resistant": {},
       "minecraft:rarity": "epic",
       "minecraft:enchantment_glint_override": true,
       "minecraft:custom_model_data":1
     }
   },
-  "group": "Misc"
+  "group": "misc"
 }

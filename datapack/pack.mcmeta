@@ -1,6 +1,14 @@
 {
    "pack": {
-     "pack_format": 48,
+     "pack_format": 57,
+     "supported_formats": [48, 57],
      "description": "Soulflare Totem lets you revieve your friends!"
+  }, "overlays": {
+    "entries": [
+      {
+        "formats": [57, 57],
+        "directory": "1.21.2-1.21.3"
+      }
+    ]
   }
 }
