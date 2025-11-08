@@ -1,0 +1,15 @@
+{
+   "pack": {
+     "pack_format": 34,
+     "supported_formats": [34, 42],
+     "description": "Soulflare Totem custom texture"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [34, 42],
+        "directory": "assets"
+      }
+    ]
+  }
+}

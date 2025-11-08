@@ -40,7 +40,7 @@
 
 ### Obtaining
 ---
-<img src="crafting-grid.png">
+<img src="https://github.com/MrDjBird/soulflare-totem/blob/main/crafting-grid.png?raw=true" alt="craft">
 
 ### Usage
 ---
