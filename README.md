@@ -28,11 +28,11 @@
      <ol>
         <details>
             <summary>
-                <a href="https://github.com/MrDjBird/soulflare-totem/releases/tag/v0.1">1.21-1.21.1</a>
+                <a href="https://github.com/MrDjBird/soulflare-totem/releases/tag/v0.2">1.21-1.21.3</a>
             </summary>
             <ul style="list-style-type: none">
-            <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.1/Totrm_of_Rebirth_v0.1_resources.zip">Resourcepack</a></li>
-            <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.1/Totem_of_Rebirth_v0.1_datapack.zip">Datapack</a></li>
+              <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.2/Soulflare_Totem_v0.2_datapack.zip">Datapack</a></li>
+              <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.2/Soulflare_Totem_v0.2_resourcepack.zip">Resourcepack(optional)</a></li>
             </ul>
         </details>
     </ol>
@@ -44,10 +44,12 @@
 
 ### Usage
 ---
+<img src="https://github.com/MrDjBird/soulflare-totem/blob/main/usage_preview.gif?raw=true" alt="usage_preview">
+
 Just throw the totem on ground and let your friend in spectator interract with it.
 
 ### Installation
 ---
 Put **datapack zip into datapack folder in your world**. And if you want special texture for the totem just install a resource pack.
 
-This project is **server side**, so datapack should be installeed only on host/server, but **texture pack should be installed on clients**
+This project is **server side**, so datapack should be installeed only on host/server, but **texture pack can be installed only on clients**

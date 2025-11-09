@@ -1,6 +1,6 @@
 {
    "pack": {
-     "pack_format": 34,
+     "pack_format": 42,
      "supported_formats": [34, 42],
      "description": "Soulflare Totem custom texture"
   },
