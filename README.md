@@ -28,11 +28,11 @@
      <ol>
         <details>
             <summary>
-                <a href="https://github.com/MrDjBird/soulflare-totem/releases/tag/v0.2">1.21-1.21.3</a>
+                <a href="https://github.com/MrDjBird/soulflare-totem/releases/tag/v0.2">1.21-1.21.4</a>
             </summary>
             <ul style="list-style-type: none">
-              <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.2/Soulflare_Totem_v0.2_datapack.zip">Datapack</a></li>
-              <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.2/Soulflare_Totem_v0.2_resourcepack.zip">Resourcepack(optional)</a></li>
+              <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.3/SFT_v0.3dp.zip">Datapack</a></li>
+              <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.3/SFT_v0.3rp.zip">Resourcepack(optional)</a></li>
             </ul>
         </details>
     </ol>
