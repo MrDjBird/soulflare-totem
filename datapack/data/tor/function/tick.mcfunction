@@ -1,1 +1,1 @@
-execute as @a[gamemode=spectator] at @s run function tor:dead_tick
+execute at @e[type=minecraft:item, nbt={Item:{id:"minecraft:totem_of_undying", components:{"minecraft:rarity":"epic"}}}] run function tor:sftotem_tick

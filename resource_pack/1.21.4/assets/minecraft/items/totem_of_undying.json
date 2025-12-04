@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/totem_of_undying"
+    },
+    "cases": [
+      {
+        "when": "soulflare_totem",
+        "model": {
+          "type": "model",
+          "model": "item/soulflare_totem"
+        }
+      }
+    ]
+  }
+}

@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/totem_of_undying"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model":"minecraft:tor/soulflare_totem"}
+    {"predicate": {"custom_model_data":1}, "model":"minecraft:item/soulflare_totem"}
   ]
 }

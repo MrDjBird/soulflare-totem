@@ -1,14 +1,14 @@
 {
    "pack": {
      "pack_format": 42,
-     "supported_formats": [34, 42],
+     "supported_formats": {"min_inclusive": 34, "max_inclusive": 54},
      "description": "Soulflare Totem custom texture"
   },
   "overlays": {
     "entries": [
       {
-        "formats": [34, 42],
-        "directory": "assets"
+        "formats": {"min_inclusive": 43, "max_inclusive": 54},
+        "directory": "1.21.4"
       }
     ]
   }
