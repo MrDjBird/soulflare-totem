@@ -21,23 +21,6 @@
   </p>
 </div>
 
-### Download 
----
-<details>
-     <summary>1.21</summary>
-     <ol>
-        <details>
-            <summary>
-                <a href="https://github.com/MrDjBird/soulflare-totem/releases/tag/v0.2">1.21-1.21.4</a>
-            </summary>
-            <ul style="list-style-type: none">
-              <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.3/SFT_v0.3dp.zip">Datapack</a></li>
-              <li><a href="https://github.com/MrDjBird/soulflare-totem/releases/download/v0.3/SFT_v0.3rp.zip">Resourcepack(optional)</a></li>
-            </ul>
-        </details>
-    </ol>
-</details>
-
 ### Obtaining
 ---
 <img src="https://github.com/MrDjBird/soulflare-totem/blob/main/crafting-grid.png?raw=true" alt="craft">
