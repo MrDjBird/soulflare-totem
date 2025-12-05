@@ -6,12 +6,16 @@
   }, "overlays": {
     "entries": [
       {
-        "formats": [57, 57],
+        "formats": [57, 58],
         "directory": "1.21.2-1.21.3"
       },
       {
-        "formats": [61, 61],
+        "formats": [59, 61],
         "directory": "1.21.4"
+      },
+      {
+        "formats": [62, 100],
+        "directory": "1.21.5"
       }
     ]
   }

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#G#",
+    "DTD",
+    "NEN"
+  ],
+  "key": {
+    "#": "minecraft:ender_pearl",
+    "G": "minecraft:golden_apple",
+    "D": "minecraft:diamond",
+    "T": "minecraft:totem_of_undying",
+    "N": "minecraft:netherite_scrap",
+    "E": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "Totem of Rebirth",
+      "damage_resistant": {
+        "types": "#minecraft:is_fire"
+      },
+      "minecraft:rarity": "epic",
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_model_data": {
+        "strings": [
+          "soulflare_totem"
+        ]
+      }
+    }
+  },
+  "group": "Totems"
+}
